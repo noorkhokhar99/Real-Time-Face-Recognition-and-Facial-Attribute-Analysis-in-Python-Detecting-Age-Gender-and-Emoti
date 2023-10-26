@@ -4,7 +4,7 @@
 Real-Time Face Recognition and Facial Attribute Analysis in Python: Detecting Age, Gender, and Emotion
 
 
-Real-Time Face Recognition and Facial Attribute Analysis in Python: Detecting Age, Gender, and Emotion is an implementation of facial recognition, detection of facial attributes (age, gender, emotion and race) for python. The repository provides a script to run Face Info with the webcam or by entering the path of an image. This implementation allows recognition of multiple faces and the registration of new users for facial recognition.
+Real-Time Face Recognition and Facial Attribute Analysis in Python: Detecting Age, Gender, and Emotion is an implementation of facial recognition, and detection of facial attributes (age, gender, emotion, and race) for Python. The repository provides a script to run Face Info with the webcam or by entering the path of an image. This implementation allows the recognition of multiple faces and the registration of new users for facial recognition.
 
 
 
@@ -27,7 +27,7 @@ cd pyresearch_face_info
 pip install -r requirements
 ```
 
-- Do run with mentioned command below 
+- Do run with the mentioned command below 
 ```
 python Face_info.py --input webcam 
 ```
@@ -35,7 +35,7 @@ python Face_info.py --input webcam
 ```
 python Face_info.py --input image --path_im data_test/testing.jpg 
 ```
-[![Watch the video](https://github.com/noorkhokhar99/Real-Time-Face-Recognition-and-Facial-Attribute-Analysis-in-Python-Detecting-Age-Gender-and-Emoti/blob/main/Pyresearch.png)](https://www.youtube.com/watch?v=_lk8M0nd3j8&t=56s)
+[![Watch the video](https://github.com/noorkhokhar99/Real-Time-Face-Recognition-and-Facial-Attribute-Analysis-in-Python-Detecting-Age-Gender-and-Emoti/blob/main/Pyresearch.png)](https://www.youtube.com/watch?v=lelNzI-yqdo)
 
 
 # References
